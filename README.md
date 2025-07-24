@@ -1,7 +1,7 @@
 # 🧠 Crypto Futures Trading Journey
 
 Welcome to my personal learning repo for **crypto futures trading**.  
-This is where I document everything I’m learning — from video tutorials, articles, trade experience, and strategies — as I grow from beginner to consistently profitable trader.
+This is where I document everything I’m learning from video tutorials, articles, trade experience, and strategies as I grow from beginner to consistently profitable trader.
 
 ---
 
